@@ -1,4 +1,5 @@
 # PCIESpeedTester
+Test PCIE speed by using OpenCL to push and pull large amount of random generated data from host to device.
 ### Compilation requirements
 vcpkg install opencl  
 vcpkg integrate install
